@@ -25,5 +25,7 @@ public class Program {
 
         System.out.println();
         System.out.printf("AVERAGE HEIGHT: %.2f", average);
+
+        sc.close();
     }
 }
